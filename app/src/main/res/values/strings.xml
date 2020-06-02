@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CetiProf</string>
+    <string name="bienvenida">GuiaCastor</string>
+    <string name="tituloregistro">Crea tu propia cuenta</string>
+    <string name="tituloacceso">Accede a tu cuenta</string>
+    <string name="ingregistro">- Ingresa tu Numero de Registro CETI</string>
+    <string name="ingcontraseña2">- Confirma tu contraseña</string>
+    <string name="ingcontraseña">- Ingresa tu contraseña</string>
+    <string name="btnaceptar">Aceptar</string>
+    <string name="btncrearcuenta">Crear cuenta</string>
+    <string name="titulobuscador">Busca un Profesor</string>
+    <string name="ingnomprof">Nombre del Profesor</string>
+    <string name="titulolista">Profesores</string>
+    <string name="tituloagregar">Agregar Profesor</string>
+    <string name="selmat">Materia</string>
+    <string name="selarea">Area</string>
+    <string name="selsec">Sección</string>
+    <string name="cking">Ingenieria</string>
+    <string name="cktec">Tecnologos</string>
+    <string name="btnvolver">Volver</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="profesor">Profesor</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
