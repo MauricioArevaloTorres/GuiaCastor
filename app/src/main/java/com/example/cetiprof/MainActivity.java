@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Objeto para conectar a otra activity:
-        final Intent intent = new Intent(  this, actlog.class);
+        final Intent intent = new Intent(  this, actprincipal.class);
         //--------------------------Envio de Objetos------------------------------------------------
         //intent.putExtra(  "infoSesion", sesion);
         //-----------------Configurar duracion de la splash screen----------------------------------
