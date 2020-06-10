@@ -96,104 +96,12 @@
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/header">
 
-                    <LinearLayout
+                    <TextView
+                        android:id="@+id/txtListaProfesores"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:orientation="vertical">
-
-                        <TableLayout
-                            android:layout_width="match_parent"
-                            android:layout_height="match_parent">
-
-                            <TableRow
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent">
-
-                                <ImageButton
-                                    android:id="@+id/imageButton5"
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    app:srcCompat="@drawable/editpic" />
-
-                                <ImageView
-                                    android:id="@+id/imageView10"
-                                    android:layout_width="270dp"
-                                    android:layout_height="100dp"
-                                    app:srcCompat="@drawable/placeholder1" />
-                            </TableRow>
-
-                            <TableRow
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent">
-
-                                <ImageView
-                                    android:id="@+id/imageView3"
-                                    android:layout_width="100dp"
-                                    android:layout_height="100dp"
-                                    app:srcCompat="@drawable/castor" />
-
-                                <ImageView
-                                    android:id="@+id/imageView11"
-                                    android:layout_width="270dp"
-                                    android:layout_height="100dp"
-                                    app:srcCompat="@drawable/placeholder1" />
-
-                            </TableRow>
-
-                            <TableRow
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent">
-
-                                <ImageView
-                                    android:id="@+id/imageView6"
-                                    android:layout_width="100dp"
-                                    android:layout_height="100dp"
-                                    app:srcCompat="@drawable/castor" />
-
-                                <ImageView
-                                    android:id="@+id/imageView12"
-                                    android:layout_width="270dp"
-                                    android:layout_height="100dp"
-                                    app:srcCompat="@drawable/placeholder1" />
-
-                            </TableRow>
-
-                            <TableRow
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent">
-
-                                <ImageView
-                                    android:id="@+id/imageView7"
-                                    android:layout_width="100dp"
-                                    android:layout_height="100dp"
-                                    app:srcCompat="@drawable/castor" />
-
-                                <ImageView
-                                    android:id="@+id/imageView13"
-                                    android:layout_width="270dp"
-                                    android:layout_height="100dp"
-                                    app:srcCompat="@drawable/placeholder1" />
-
-                            </TableRow>
-
-                            <TableRow
-                                android:layout_width="match_parent"
-                                android:layout_height="match_parent">
-
-                                <ImageView
-                                    android:id="@+id/imageView8"
-                                    android:layout_width="100dp"
-                                    android:layout_height="100dp"
-                                    app:srcCompat="@drawable/castor" />
-
-                                <ImageView
-                                    android:id="@+id/imageView14"
-                                    android:layout_width="270dp"
-                                    android:layout_height="100dp"
-                                    app:srcCompat="@drawable/placeholder1" />
-                            </TableRow>
-                        </TableLayout>
-                    </LinearLayout>
+                        android:textColor="#FFFFFF"
+                        android:textSize="24sp" />
                 </ScrollView>
 
             </LinearLayout>

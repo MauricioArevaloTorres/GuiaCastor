@@ -28,7 +28,7 @@
             android:layout_width="300dp"
             android:layout_height="match_parent"
             android:gravity="center_vertical|end"
-            android:text="@string/profesor"
+            android:text="@string/bienvenida"
             android:textAlignment="center"
             android:textColor="#FFFFFF"
             android:textSize="30sp"
