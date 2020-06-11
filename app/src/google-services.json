@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324370878623",
+    "firebase_url": "https://cetiprof.firebaseio.com",
+    "project_id": "cetiprof",
+    "storage_bucket": "cetiprof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324370878623:android:ec1ceb6589060bc32b12aa",
+        "android_client_info": {
+          "package_name": "com.example.cetiprof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324370878623-mut6d6plvrocskihjov9u3f3esbcpdgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOGwFJurvM1kiGysMUUxFvTkijRuHmUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324370878623-mut6d6plvrocskihjov9u3f3esbcpdgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
