@@ -11,7 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".actprincipal"></activity>
+        <activity android:name=".actprincipal" />
         <activity android:name=".actprofesor" />
         <activity android:name=".actsign" />
         <activity android:name=".AuthFirebase" />
