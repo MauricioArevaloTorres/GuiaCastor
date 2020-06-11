@@ -11,6 +11,7 @@ import java.util.TimerTask;
 
 public class MainActivity extends AppCompatActivity {
 
+    // MAU SE LA COME ENTERA
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
