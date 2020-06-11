@@ -10,6 +10,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class BaseActivity extends AppCompatActivity {
 
+    //comentario de pruebita
+
     @VisibleForTesting
     public ProgressDialog mProgressDialog;
 
